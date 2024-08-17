@@ -1,0 +1,10 @@
+GenerationType
+@JsonFormat
+ResponseEntity
+MultipartFile
+@RequestPart, @RequestBody, @RequestParam
+Difference between RestController and Controller
+getImageByProductId method
+UpdateProduct can it improve?? in ProductController
+@Query
+
